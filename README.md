@@ -27,7 +27,7 @@ This Python script generates a random password based on user-specified criteria.
 2. **Run passgen from the command line:**
 
     ```bash
-    python passgen.py [options]
+    python3 passgen.py [options]
     ```
 
 ## Options
@@ -78,7 +78,7 @@ This Python script generates a random password based on user-specified criteria.
 
 ## Script Description
 
-The python script utilizes the `argparse` module to handle command line arguments, and the `random` and `string` modules to generate the password.
+passgen utilizes the `argparse` module to handle command line arguments, and the `random` and `string` modules to generate the password.
 
 1. **Argument Parsing:**
     - passgen parses command-line arguments for password length, number of special characters, numbers, capital letters, lowercase letters, and file output.
