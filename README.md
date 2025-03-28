@@ -19,10 +19,10 @@ This Python script generates a random password based on user-specified criteria.
 1. **Clone or download passgen:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/welbornt/passgen.git
     ```
 
-    or download the python file directly.
+    or download passgen.py directly.
 
 2. **Run passgen from the command line:**
 
